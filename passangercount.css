@@ -1,0 +1,39 @@
+.im{
+    background-repeat: no-repeat;
+    background-image: url(img/railwaystation.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-weight: bold;
+}
+#inc-btm{
+    background: brown;
+    color: white;
+    width: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+#rec-btm{
+    background: darkblue;
+    color: white;
+    width: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+#sav-btm{
+    background: green;
+    color: white;
+    width: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+}
