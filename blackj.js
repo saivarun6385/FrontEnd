@@ -1,6 +1,6 @@
 
 let cards=[]
-let s=0
+let s=0;
 let message=""
 isAlive=false
 let mel=document.getElementById("msg")
