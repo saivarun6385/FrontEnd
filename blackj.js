@@ -15,7 +15,7 @@ let player={
     name:"varun",
     chips:200
 
-}
+};
 playerEl.innerText=player.name+": $"+player.chips
 function getRandomCard(){
     let randomnum= Math.floor(Math.random()*13)+1
