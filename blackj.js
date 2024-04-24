@@ -16,7 +16,7 @@ let player={
     chips:200
 
 };
-const user = {username:"sai",pass:"varun"}
+const user = {username:"sai",pass:"varun"};
 playerEl.innerText=player.name+": $"+player.chips
 function getRandomCard(){
     let randomnum= Math.floor(Math.random()*13)+1
