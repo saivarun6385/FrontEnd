@@ -68,3 +68,5 @@ document.getElementById("nc").onclick=function(){
 render()
     }
 }
+const user = [{username:"sai"},
+{pass:"varun"}]
