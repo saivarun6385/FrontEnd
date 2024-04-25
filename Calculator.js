@@ -3,7 +3,11 @@ let num2=8
 document.getElementById("n1").textContent=num1
 document.getElementById("n2").textContent=num2
 
+let player=[{
+    username:"varun",
+    password:"sai"
 
+}];
 
 let s=document.getElementById("sum")
 document.getElementById("add").onclick=function(){
