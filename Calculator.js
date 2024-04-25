@@ -5,9 +5,10 @@ document.getElementById("n2").textContent=num2
 
 let player=[{
     username:"varun",
-    password:"sai"
+    pass:"sai"
 
 }];
+const user = {username:"sai",pass:"varun"};
 
 let s=document.getElementById("sum")
 document.getElementById("add").onclick=function(){
